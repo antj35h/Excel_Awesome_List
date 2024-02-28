@@ -22,6 +22,7 @@
 1. [20 Excel tips & functions to increase productivity](https://www.reddit.com/r/excel/comments/y0objs/here_are_20_excel_tips_functions_to_increase/)
 2. [12 Excel functions that will increase your productivity](https://www.reddit.com/r/excel/comments/xhp68w/my_favorite_12_excel_functions_that_will_increase/)
 3. [Ten (kinda important) Excel tips](https://www.reddit.com/r/excel/comments/xaleo5/ten_excel_tips_i_learned_during_my_sales_and/) → [Important Excel Tips](draft%20-%20MS%20Excel%20Awesome%20List.md#Important%20Excel%20Tips)
+4. [Awesome-Excel from NajiElKotob](https://github.com/NajiElKotob/Awesome-Excel) → Awesome list made by an Analytics and Business Intelligence Trainer at PwC's Academy Middle East. Huge thanks to Mr. Naji.
 
 ## Microsoft Resources
 
