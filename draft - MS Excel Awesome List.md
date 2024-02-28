@@ -26,7 +26,7 @@
 
 ## Microsoft Resources
 
-%% 
+%%
 fill in links
 
 50 time-saving Excel shortcuts.xltx
