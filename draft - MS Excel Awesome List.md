@@ -65,7 +65,7 @@ Tips and tricks.xltx
 	15. if/ifs. 
 	16. Bonus for advanced formula masters: nested “indirect”.
 3. **Learn how to use pivot tables**
-4. **Never merge cells.** Rather do → [Center Across Selection](draft%20-%20MS%20Excel%20Awesome%20List.md#Center%20Across%20Selection)
+4. **Never merge cells.** Rather do → [Center Across Selection](Side%20Notes.md#Center%20Across%20Selection)
 5. **Learn shortcuts.** → [Excel Shortcuts](draft%20-%20MS%20Excel%20Awesome%20List.md#Excel%20Shortcuts)
 6. **Automate your task** or atleast part of it -  if it takes too much time, involves copy pasting or overly manual work. *How?*
 	1. Google is your best friend, 
@@ -76,14 +76,6 @@ Tips and tricks.xltx
 9. **Look at how others work**, there are many talented people around or people who just know how to do ONE thing better than you, “steal” it and improve your Excel skills!
 10. **F4 function key** to repeat the last action.  
 
-## Side - Notes
-
-### Center Across Selection
-
-1. ![](assets/Pasted%20image%2020240228104702.png)
-2. <i><font color=red>Don't do this</font></i> ![](assets/Pasted%20image%2020240228104746.png)
-3. <font color=lime>Rather do this</font> ![](assets/Pasted%20image%2020240228104906.png)
-4. End Result ![](assets/Pasted%20image%2020240228104925.png)
 
 # Keyboard Shortcuts
 
