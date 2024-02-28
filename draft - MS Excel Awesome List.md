@@ -37,12 +37,20 @@ Ten tips for charts.xltx
 Tips and tricks.xltx
 %%
 
-# Formulas
+# Formulas & Keyboard Shortcuts
+
+## Formulas & Functios
 
 %% to add - excel sheet %%
 
 1. [Excel functions (by category)](https://support.office.com/en-us/article/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb)
 2. [Excel Function List](https://exceljet.net/excel-functions)
+
+## Keyboard Shortcuts
+
+*Try these out to properly understand what it does exactly*
+
+%% excel sheet %%
 
 # Important Excel Tips
 
@@ -66,7 +74,7 @@ Tips and tricks.xltx
 	16. Bonus for advanced formula masters: nested “indirect”.
 3. **Learn how to use pivot tables**
 4. **Never merge cells.** Rather do → [Center Across Selection](Side%20Notes.md#Center%20Across%20Selection)
-5. **Learn shortcuts.** → [Excel Shortcuts](draft%20-%20MS%20Excel%20Awesome%20List.md#Excel%20Shortcuts)
+5. **Learn shortcuts.** → [Keyboard Shortcuts](draft%20-%20MS%20Excel%20Awesome%20List.md#Keyboard%20Shortcuts)
 6. **Automate your task** or atleast part of it -  if it takes too much time, involves copy pasting or overly manual work. *How?*
 	1. Google is your best friend, 
 	2. a formula or 
@@ -76,12 +84,6 @@ Tips and tricks.xltx
 9. **Look at how others work**, there are many talented people around or people who just know how to do ONE thing better than you, “steal” it and improve your Excel skills!
 10. **F4 function key** to repeat the last action.  
 
-
-# Keyboard Shortcuts
-
-*Try these out to properly understand what it does exactly*
-
-%% excel sheet %%
 
 # Help
 
