@@ -26,31 +26,30 @@
 
 ## Microsoft Resources
 
-%%
-fill in links
+Resources from Microsoft website
 
-50 time-saving Excel shortcuts.xltx
-Formula tutorial.xltx
-g Quick Start Guide - Excel 2013.pdf
-g Quick Start Guide - Excel 2016.pdf
-Ten tips for charts.xltx
-Tips and tricks.xltx
-%%
+1. [50 time-saving Excel shortcuts](resources/50%20time-saving%20Excel%20shortcuts.xltx)
+2. [Formula tutorial](resources/Formula%20tutorial.xltx)
+3. Quick Start Guides for:
+	1. [Excel 2013](resources/Quick%20Start%20Guide%20-%20Excel%202013.pdf)
+	2. [Excel 2016](resources/Quick%20Start%20Guide%20-%20Excel%202016.pdf)
+4. [Ten tips for charts](resources/Ten%20tips%20for%20charts.xltx)
+5. [Tips and tricks](resources/Tips%20and%20tricks.xltx)
+
 
 # Formulas & Keyboard Shortcuts
 
 ## Formulas & Functios
 
-%% to add - excel sheet %%
-
-1. [Excel functions (by category)](https://support.office.com/en-us/article/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb)
-2. [Excel Function List](https://exceljet.net/excel-functions)
+1. [Master Excel Sheet](resources/Master%20Sheet.xlsx) - made by me from various sources
+2. [Excel functions (by category)](https://support.office.com/en-us/article/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb) - Microsoft
+3. [Excel Function List](https://exceljet.net/excel-functions) - exceljet
 
 ## Keyboard Shortcuts
 
 *Try these out to properly understand what it does exactly*
 
-%% excel sheet %%
+[Master Excel Sheet](resources/Master%20Sheet.xlsx) - made by me from various sources
 
 # Important Excel Tips
 
