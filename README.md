@@ -4,7 +4,7 @@
 | ------ | -------------------------------- |
 | ✔      | Links I have learnt from         |
 | ❌      | Links I have not yet learnt from |
-| ⭐      | Recommended                      |
+| ⭐      | Recommended & Important          |
 | 📽     | YouTube Channel                  |
 
 # Start Here
@@ -42,7 +42,7 @@ Resources from Microsoft website
 
 ## Formulas & Functios
 
-1. [Master Excel Sheet](resources/Master%20Sheet.xlsx) - made by me from various sources
+1. [Master Excel Sheet](resources/Master%20Sheet.xlsx) ⭐ - made by me from various sources
 2. [Excel functions (by category)](https://support.office.com/en-us/article/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb) - Microsoft
 3. [Excel Function List](https://exceljet.net/excel-functions) - exceljet
 
@@ -50,7 +50,7 @@ Resources from Microsoft website
 
 *Try these out to properly understand what it does exactly*
 
-[Master Excel Sheet](resources/Master%20Sheet.xlsx) - made by me from various sources
+[Master Excel Sheet](resources/Master%20Sheet.xlsx) ⭐ - made by me from various sources
 
 # Important Excel Tips
 
