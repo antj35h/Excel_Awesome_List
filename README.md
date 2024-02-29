@@ -89,8 +89,6 @@ Resources from Microsoft website
 1. [What version of Office am I using?](https://support.microsoft.com/en-us/office/about-office-what-version-of-office-am-i-using-932788b8-a3ce-44bf-bb09-e334518b8b19)
 2. [Can't view excel sheets on the github page?]()
 
-
-
 ---
 
 **🌟 Best of Luck 🌟**
