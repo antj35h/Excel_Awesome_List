@@ -1,11 +1,4 @@
-# Key
-
-| Symbol | What it means                    |
-| ------ | -------------------------------- |
-| ✔      | Links I have learnt from         |
-| ❌      | Links I have not yet learnt from |
-| ⭐      | Recommended & Important          |
-| 📽     | YouTube Channel                  |
+> For the things we have to learn before we can do them, we learn by doing them. ~ Aristotle
 
 # Start Here
 
@@ -16,6 +9,15 @@
 5. [GCF Online Learning](https://edu.gcfglobal.org/en/topics/excel/) ❌⭐ - Free online learning at GCF Global
 6. [MrExcel.com](https://www.youtube.com/user/bjele123) ⭐🎥 - Learn a new Excel tip every weekday from MrExcel
 7. [Excel ribbon: quick guide for beginners](https://www.ablebits.com/office-addins-blog/excel-ribbon-guide/)
+
+## Key
+
+| Symbol | What it means                    |
+| ------ | -------------------------------- |
+| ✔      | Links I have learnt from         |
+| ❌      | Links I have not yet learnt from |
+| ⭐      | Recommended & Important          |
+| 📽     | YouTube Channel                  |
 
 ## Sharpen your skills
 
