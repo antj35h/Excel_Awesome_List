@@ -9,7 +9,7 @@
 5. [GCF Online Learning](https://edu.gcfglobal.org/en/topics/excel/) ❌⭐ - Free online learning at GCF Global
 6. [MrExcel.com](https://www.youtube.com/user/bjele123) ⭐🎥 - Learn a new Excel tip every weekday from MrExcel
 7. [Excel ribbon: quick guide for beginners](https://www.ablebits.com/office-addins-blog/excel-ribbon-guide/)
-8. [Specific Tutorial Videos](README.md#Other%20Tutorials) - List made from various sources
+8. [Specific Tutorial Videos](#other-tutorials) - List made from various sources
 
 ## Key
 
@@ -76,7 +76,7 @@ Resources from Microsoft website
 	15. if/ifs. 
 	16. Bonus for advanced formula masters: nested “indirect”.
 3. **Learn how to use pivot tables**
-4. **Never merge cells.** Rather do → [Center Across Selection](Side%20Notes.md#Center%20Across%20Selection)
+4. **Never merge cells.** Rather do → [Center Across Selection](Side%20Notes.md#center-across-selection)
 5. **Learn shortcuts.** → [Keyboard Shortcuts](#keyboard-shortcuts)
 6. **Automate your task** or atleast part of it -  if it takes too much time, involves copy pasting or overly manual work. *How?*
 	1. Google is your best friend, 
