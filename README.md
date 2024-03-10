@@ -9,6 +9,7 @@
 5. [GCF Online Learning](https://edu.gcfglobal.org/en/topics/excel/) ❌⭐ - Free online learning at GCF Global
 6. [MrExcel.com](https://www.youtube.com/user/bjele123) ⭐🎥 - Learn a new Excel tip every weekday from MrExcel
 7. [Excel ribbon: quick guide for beginners](https://www.ablebits.com/office-addins-blog/excel-ribbon-guide/)
+8. [Specific Tutorial Videos](README.md#Other%20Tutorials) - List made from various sources
 
 ## Key
 
@@ -85,6 +86,10 @@ Resources from Microsoft website
 8. **Look over PowerQuery** for better and efficient - automation and reliability.
 9. **Look at how others work**, there are many talented people around or people who just know how to do ONE thing better than you, “steal” it and improve your Excel skills!
 10. **F4 function key** to repeat the last action.  
+
+# Other Tutorials
+
+Tutorial videos you can watch - [here](resources/Excel%20Tutorials.xlsx)
 
 # Help
 
