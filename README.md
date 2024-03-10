@@ -23,7 +23,7 @@
 
 1. [20 Excel tips & functions to increase productivity](https://www.reddit.com/r/excel/comments/y0objs/here_are_20_excel_tips_functions_to_increase/)
 2. [12 Excel functions that will increase your productivity](https://www.reddit.com/r/excel/comments/xhp68w/my_favorite_12_excel_functions_that_will_increase/)
-3. [Ten (kinda important) Excel tips](https://www.reddit.com/r/excel/comments/xaleo5/ten_excel_tips_i_learned_during_my_sales_and/) → [Important Excel Tips](README.md#Important%20Excel%20Tips)
+3. [Ten (kinda important) Excel tips](https://www.reddit.com/r/excel/comments/xaleo5/ten_excel_tips_i_learned_during_my_sales_and/) → [Important Excel Tips](#important-excel-tips)
 4. [Awesome-Excel from NajiElKotob](https://github.com/NajiElKotob/Awesome-Excel) ⭐→ Awesome list made by an Analytics and Business Intelligence Trainer at PwC's Academy Middle East. Huge thanks to Mr. Naji.
 5. [Excel Cheat Sheet](https://www.computerworld.com/article/3193992/excel-2016-and-2019-cheat-sheet.html) - Key features in Excel.
 
@@ -76,7 +76,7 @@ Resources from Microsoft website
 	16. Bonus for advanced formula masters: nested “indirect”.
 3. **Learn how to use pivot tables**
 4. **Never merge cells.** Rather do → [Center Across Selection](Side%20Notes.md#Center%20Across%20Selection)
-5. **Learn shortcuts.** → [Keyboard Shortcuts](README.md#Keyboard%20Shortcuts)
+5. **Learn shortcuts.** → [Keyboard Shortcuts](#keyboard-shortcuts)
 6. **Automate your task** or atleast part of it -  if it takes too much time, involves copy pasting or overly manual work. *How?*
 	1. Google is your best friend, 
 	2. a formula or 
