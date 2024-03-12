@@ -6,7 +6,7 @@
 2. [Udemy Free Course](https://www.udemy.com/course/useful-excel-for-beginners/) 
 3. [GCF Online Learning](https://edu.gcfglobal.org/en/topics/excel/) - Free online learning at GCF Global.
 4. [Excel ribbon: quick guide for beginners.](https://www.ablebits.com/office-addins-blog/excel-ribbon-guide/)
-5. [Specific Tutorial Videos](#other-tutorials) - List made from various sources.
+5. [Specific Tutorial Videos](resources/Excel%20Tutorials.xlsx) - List made from various sources.
 
 ## YT Channels
 
@@ -82,10 +82,6 @@ Resources from Microsoft website
 8. **Look over PowerQuery** for better and efficient - automation and reliability.
 9. **Look at how others work**, there are many talented people around or people who just know how to do ONE thing better than you, “steal” it and improve your Excel skills!
 10. **F4 function key** to repeat the last action.
-
-# Other Tutorials
-
-Tutorial videos you can watch - [here](resources/Excel%20Tutorials.xlsx)
 
 # Help
 
