@@ -2,23 +2,19 @@
 
 # Start Here
 
-1. [Teachoo Intro Course](https://www.teachoo.com/subjects/excel/) ✔⭐
-2. [Udemy Free Course](https://www.udemy.com/course/useful-excel-for-beginners/) ❌
-3. [ExcelIsFun](https://www.youtube.com/user/ExcelIsFun/) ✔⭐🎥 - Videos for both beginners and advanced learners.
-4. [Matt Brattin](https://www.youtube.com/@mattbrattin) ✔⭐🎥 - Videos for Excel tutorials, but more focused on the topic of Data Analytics
-5. [GCF Online Learning](https://edu.gcfglobal.org/en/topics/excel/) ❌⭐ - Free online learning at GCF Global
-6. [MrExcel.com](https://www.youtube.com/user/bjele123) ⭐🎥 - Learn a new Excel tip every weekday from MrExcel
-7. [Excel ribbon: quick guide for beginners](https://www.ablebits.com/office-addins-blog/excel-ribbon-guide/)
-8. [Specific Tutorial Videos](#other-tutorials) - List made from various sources
+1. [Teachoo Intro Course](https://www.teachoo.com/subjects/excel/) 
+2. [Udemy Free Course](https://www.udemy.com/course/useful-excel-for-beginners/) 
+3. [GCF Online Learning](https://edu.gcfglobal.org/en/topics/excel/) - Free online learning at GCF Global.
+4. [Excel ribbon: quick guide for beginners.](https://www.ablebits.com/office-addins-blog/excel-ribbon-guide/)
+5. [Specific Tutorial Videos](#other-tutorials) - List made from various sources.
 
-## Key
+## YT Channels
 
-| Symbol | What it means                    |
-| ------ | -------------------------------- |
-| ✔      | Links I have learnt from         |
-| ❌      | Links I have not yet learnt from |
-| ⭐      | Recommended & Important          |
-| 📽     | YouTube Channel                  |
+1. [Matt Brattin](https://www.youtube.com/@mattbrattin) - Videos for Excel tutorials, but more focused on the topic of Data Analytics.
+2. [Kenji Explains](https://www.youtube.com/@KenjiExplains) - Tutorials on Excel working with data, business, and finance concepts.
+3. [Leila Gharani](https://www.youtube.com/@LeilaGharani) - Tutorials to help you save your time.
+4. [ExcelIsFun](https://www.youtube.com/user/ExcelIsFun/) - Videos for both beginners and advanced learners.
+5. [MrExcel.com](https://www.youtube.com/user/bjele123) - Learn a new Excel tip every weekday from MrExcel.
 
 ## Sharpen your skills
 
@@ -78,14 +74,14 @@ Resources from Microsoft website
 3. **Learn how to use pivot tables**
 4. **Never merge cells.** Rather do → [Center Across Selection](Side%20Notes.md#center-across-selection)
 5. **Learn shortcuts.** → [Keyboard Shortcuts](#keyboard-shortcuts)
-6. **Automate your task** or atleast part of it -  if it takes too much time, involves copy pasting or overly manual work. *How?*
+6. **Automate your task** or atleast part of it - if it takes too much time, involves copy pasting or overly manual work. *How?*
 	1. Google is your best friend, 
 	2. a formula or 
 	3. way of structuring your file may help you transform a 5 hours task in a 30 min one.
 7. **Always search for a way to improve** each file or excel process. By doing so, you learn a ton of new formulas and ways to be better at Excel. 
 8. **Look over PowerQuery** for better and efficient - automation and reliability.
 9. **Look at how others work**, there are many talented people around or people who just know how to do ONE thing better than you, “steal” it and improve your Excel skills!
-10. **F4 function key** to repeat the last action.  
+10. **F4 function key** to repeat the last action.
 
 # Other Tutorials
 
