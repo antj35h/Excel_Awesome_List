@@ -35,22 +35,23 @@ Resources from Microsoft website
 	2. [Excel 2016](resources/Quick%20Start%20Guide%20-%20Excel%202016.pdf)
 4. [Ten tips for charts](resources/Ten%20tips%20for%20charts.xltx)
 5. [Tips and tricks](resources/Tips%20and%20tricks.xltx)
-
+6. [Keyboard Shortcuts](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-excel-1798d9d5-842a-42b8-9c99-9b7213f0040f) - From Microsoft's website.
+7. [Excel Templates](https://create.microsoft.com/en-us/excel-templates)
 
 # Formulas & Keyboard Shortcuts
 
 ## Formulas & Functios
 
-1. [Master Excel Sheet](resources/Master%20Sheet.xlsx) ⭐ - made by me from various sources
-2. [Excel functions (by category)](https://support.office.com/en-us/article/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb) - Microsoft
+1. [Master Excel Sheet](resources/Master%20Sheet.xlsx) ⭐ - made by me from various sources.
+2. [Excel functions (by category)](https://support.office.com/en-us/article/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb) - Microsoft.
 3. [Excel Function List](https://exceljet.net/excel-functions) - exceljet
 
 ## Keyboard Shortcuts
 
 *Try these out to properly understand what it does exactly*
 
-1. [Keyboard Shortcuts](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-excel-1798d9d5-842a-42b8-9c99-9b7213f0040f) - From Microsoft's website
-2. [Master Excel Sheet](resources/Master%20Sheet.xlsx) ⭐ - made by me from various sources
+1. [Keyboard Shortcuts](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-excel-1798d9d5-842a-42b8-9c99-9b7213f0040f) - From Microsoft's website.
+2. [Master Excel Sheet](resources/Master%20Sheet.xlsx) ⭐ - made by me from various sources.
 
 # Important Excel Tips
 
