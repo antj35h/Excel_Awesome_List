@@ -18,9 +18,11 @@
 
 ## Sharpen your skills
 
+For beginners: [Important Excel Tips](#important-excel-tips)
+
 1. [20 Excel tips & functions to increase productivity](https://www.reddit.com/r/excel/comments/y0objs/here_are_20_excel_tips_functions_to_increase/)
 2. [12 Excel functions that will increase your productivity](https://www.reddit.com/r/excel/comments/xhp68w/my_favorite_12_excel_functions_that_will_increase/)
-3. [Ten (kinda important) Excel tips](https://www.reddit.com/r/excel/comments/xaleo5/ten_excel_tips_i_learned_during_my_sales_and/) → [Important Excel Tips](#important-excel-tips)
+3. [Ten (kinda important) Excel tips](https://www.reddit.com/r/excel/comments/xaleo5/ten_excel_tips_i_learned_during_my_sales_and/)
 4. [Awesome-Excel from NajiElKotob](https://github.com/NajiElKotob/Awesome-Excel) ⭐→ Awesome list made by an Analytics and Business Intelligence Trainer at PwC's Academy Middle East. Huge thanks to Mr. Naji.
 5. [Excel Cheat Sheet](https://www.computerworld.com/article/3193992/excel-2016-and-2019-cheat-sheet.html) - Key features in Excel.
 
@@ -35,7 +37,7 @@ Resources from Microsoft website
 	2. [Excel 2016](resources/Quick%20Start%20Guide%20-%20Excel%202016.pdf)
 4. [Ten tips for charts](resources/Ten%20tips%20for%20charts.xltx)
 5. [Tips and tricks](resources/Tips%20and%20tricks.xltx)
-6. [Keyboard Shortcuts](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-excel-1798d9d5-842a-42b8-9c99-9b7213f0040f) - From Microsoft's website.
+6. [Keyboard Shortcuts](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-excel-1798d9d5-842a-42b8-9c99-9b7213f0040f)
 7. [Excel Templates](https://create.microsoft.com/en-us/excel-templates)
 
 # Formulas & Keyboard Shortcuts
