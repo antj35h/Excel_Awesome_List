@@ -49,7 +49,8 @@ Resources from Microsoft website
 
 *Try these out to properly understand what it does exactly*
 
-[Master Excel Sheet](resources/Master%20Sheet.xlsx) ⭐ - made by me from various sources
+1. [Keyboard Shortcuts](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-excel-1798d9d5-842a-42b8-9c99-9b7213f0040f) - From Microsoft's website
+2. [Master Excel Sheet](resources/Master%20Sheet.xlsx) ⭐ - made by me from various sources
 
 # Important Excel Tips
 
