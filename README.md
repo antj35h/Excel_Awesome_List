@@ -95,6 +95,6 @@ Resources from Microsoft website
 
 ---
 
-**🌟 Best of Luck 🌟**
+**🌟 Best of Luck & Have fun with Excel 🌟**
 
 ---
