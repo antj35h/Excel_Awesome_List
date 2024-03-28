@@ -2,19 +2,21 @@
 
 ## Center Across Selection
 
-1. Example: ![](assets/Pasted%20image%2020240228104702.png)
-2. *Don't do this* ![](assets/Pasted%20image%2020240228104746.png)
-3. **Rather do this** ![](assets/Pasted%20image%2020240228104906.png)
-4. End Result ![](assets/Pasted%20image%2020240228104925.png)
+1. Example: <br> <img src="/assets/Pasted%20image%2020240228104702.png" width=500>
+2. *Don't do this* <br> <img src="/assets/Pasted%20image%2020240228104746.png" width=500>
+3. **Rather do this** <br> <img src="/assets/Pasted%20image%2020240228104906.png" width=500>
+4. End Result <br> <img src="/assets/Pasted%20image%2020240228104925.png" width=500>
 
 # Shortcuts
 
 ## Auto Fit
 
-1. If column widths and row heights make the data unreadable, like this: ![](assets/Pasted%20image%2020240328213103.png)
-2. Then select all data: ![](assets/Pasted%20image%2020240328213441.png)
-3. And click on the lines separating the columns and rows: ![](assets/Pasted%20image%2020240328213531.png)
+1. If column widths and row heights make the data unreadable, like this: <br> <img src="/assets/Pasted%20image%2020240328213103.png" width=200>
+2. Then select all data: <br> <img src="/assets/Pasted%20image%2020240328213441.png" width=200>
+3. And click on the lines separating the columns and rows: <br> <img src="/assets/Pasted%20image%2020240328213531.png" width=200>
 4. And done!
+
+<img src="/assets/Pasted%20image%2020240328213103.png" width=200>
 
 # Help
 
