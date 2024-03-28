@@ -11,9 +11,9 @@
 
 ## Auto-Fit
 
-1. If column widths and row heights make the data unreadable, like this: ![200](assets/Pasted%20image%2020240328213103.png)
-2. Then select all data: ![200](assets/Pasted%20image%2020240328213441.png)
-3. And click on the lines separating the columns and rows: ![200](assets/Pasted%20image%2020240328213531.png)
+1. If column widths and row heights make the data unreadable, like this: ![](assets/Pasted%20image%2020240328213103.png)
+2. Then select all data: ![](assets/Pasted%20image%2020240328213441.png)
+3. And click on the lines separating the columns and rows: ![](assets/Pasted%20image%2020240328213531.png)
 4. And done!
 
 # Help
