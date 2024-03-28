@@ -16,8 +16,6 @@
 3. And click on the lines separating the columns and rows: <br> <img src="/assets/Pasted%20image%2020240328213531.png" width=200>
 4. And done!
 
-<img src="/assets/Pasted%20image%2020240328213103.png" width=200>
-
 # Help
 
 ## View Excel Sheets
