@@ -87,6 +87,9 @@ Resources from Microsoft website
 9. **Look at how others work**, there are many talented people around or people who just know how to do ONE thing better than you, “steal” it and improve your Excel skills!
 10. **F4 function key** to repeat the last action.
 11. When working with a huge table, **freeze the top row** with ALT+W+F+R or go to View > Freeze Panes
+12. **Auto-Size** column widths and row heights either by:
+	1. Using keyboard shortcuts: ALT+H+O+I and ALT+H+O+A, respectively
+	2. or, by [clicking on these lines](Side%20Notes.md#auto-fit)
 
 # Help
 
