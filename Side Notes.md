@@ -9,7 +9,7 @@
 
 # Shortcuts
 
-## Auto-Fit
+## Auto Fit
 
 1. If column widths and row heights make the data unreadable, like this: ![](assets/Pasted%20image%2020240328213103.png)
 2. Then select all data: ![](assets/Pasted%20image%2020240328213441.png)
